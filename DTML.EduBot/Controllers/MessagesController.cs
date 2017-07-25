@@ -25,7 +25,7 @@
             {
                 using (var scope = WebApiApplication.FindContainer().BeginLifetimeScope())
                 {
-                    await Conversation.SendAsync(activity, () => scope.Resolve<RootDialog>());
+                    await Conversation.SendAsync(activity, () => scope.Resolve<ChitChatDialog>());
                 }
             }
             else
