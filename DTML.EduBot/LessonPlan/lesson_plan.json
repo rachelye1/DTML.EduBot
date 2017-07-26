@@ -5,7 +5,7 @@
       "topics": [
         {
           "question": "Please tell me what the picture shows",
-          "image_url": "",
+          "image_url": "https://dtml4cs.blob.core.windows.net/images/LessonImages/apple-158419_640.png",
           "answer_options": [
             "The telephone",
             "The sky",
@@ -15,7 +15,7 @@
         },
         {
           "question": "Nice job! Try this one:",
-          "image_url": "https://static.pexels.com/photos/39803/pexels-photo-39803.jpeg",
+          "image_url": "https://dtml4cs.blob.core.windows.net/images/LessonImages/milk-2474993_640.jpg",
           "answer_options": [
             "A boy",
             "A fish",
@@ -30,7 +30,7 @@
         },
         {
           "question": "Good job! Lets keep going. Can you tell me what this is?",
-          "image_url": "http://www.naturalheightgrowth.com/wp-content/uploads/2016/06/milk-006.jpg",
+          "image_url": "https://dtml4cs.blob.core.windows.net/images/LessonImages/bread.jpg",
           "answer_options": [
             "A dog",
             "The bread",
@@ -45,7 +45,7 @@
         },
         {
           "question": "Keep up the good work! Lets try another one:",
-          "image_url": "http://www.naturalheightgrowth.com/wp-content/uploads/2016/06/milk-006.jpg",
+          "image_url": "https://dtml4cs.blob.core.windows.net/images/LessonImages/egg.png",
           "answer_options": [
             "The bread",
             "An egg",
@@ -63,28 +63,28 @@
         "questions": [
           {
             "question": "This is an ____",
-            "image_url": "https://static.pexels.com/photos/39803/pexels-photo-39803.jpeg",
+            "image_url": "https://dtml4cs.blob.core.windows.net/images/LessonImages/apple-158419_640.png",
             "correct_answer": "apple",
             "correct_answer_bot_response": "Correct!",
             "wrong_answer_bot_response": "Oops, that is incorrect."
           },
           {
             "question": "This is ___ ____",
-            "image_url": "https://images.contentful.com/6m9bd13t776q/6KmARX9mUwsuG4O8YsI8KY/4f68bd0d9d9d4d8a1ab5307f0fa59679/which-baby-names-stand-time-test-2160x1200.jpg",
+            "image_url": "https://dtml4cs.blob.core.windows.net/images/LessonImages/milk-2474993_640.jpg",
             "correct_answer": "the milk",
             "correct_answer_bot_response": "Correct!",
             "wrong_answer_bot_response": "Oops, that's not right, try again"
           },
           {
             "question": "This is ___ ____",
-            "image_url": "https://static.pexels.com/photos/39803/pexels-photo-39803.jpeg",
+            "image_url": "https://dtml4cs.blob.core.windows.net/images/LessonImages/bread.jpg",
             "correct_answer": "the bread",
             "correct_answer_bot_response": "Correct!",
             "wrong_answer_bot_response": "Oops, that is incorrect."
           },
           {
             "question": "This is __ ___",
-            "image_url": "https://static.pexels.com/photos/39803/pexels-photo-39803.jpeg",
+            "image_url": "https://dtml4cs.blob.core.windows.net/images/LessonImages/egg.png",
             "correct_answer": "an egg",
             "correct_answer_bot_response": "Correct!",
             "wrong_answer_bot_response": "Oops, that is incorrect."
@@ -97,7 +97,7 @@
       "topics": [
         {
           "question": "Please tell me what this image shows",
-          "image_url": "",
+          "image_url": "https://dtml4cs.blob.core.windows.net/images/LessonImages/cat.jpg",
           "answer_options": [
             "A cat",
             "A dog",
@@ -112,13 +112,13 @@
         },
         {
           "question": "Nice job! Try this one:",
-          "image_url": "https://static.pexels.com/photos/39803/pexels-photo-39803.jpeg",
+          "image_url": "https://dtml4cs.blob.core.windows.net/images/LessonImages/fish.jpg",
           "answer_options": [
             "A ball",
             "The bread",
             "A fish"
           ],
-          "correct_answer": "The fish",
+          "correct_answer": "A fish",
           "correct_answer_bot_response": "Good! Now, can you type the word?",
           "wrong_answer_bot_response": "Hmm..Try again please",
           "pronounciation_phrase": "Good! Now lets repeat after me",
@@ -127,7 +127,7 @@
         },
         {
           "question": "Good job! Lets keep going. Can you tell me what this is?",
-          "image_url": "http://www.naturalheightgrowth.com/wp-content/uploads/2016/06/milk-006.jpg",
+          "image_url": "https://dtml4cs.blob.core.windows.net/images/LessonImages/a%20dog.jpg",
           "answer_options": [
             "A boy",
             "A dog",
@@ -142,7 +142,7 @@
         },
         {
           "question": "Keep up the good work! Lets try another one.",
-          "image_url": "http://www.naturalheightgrowth.com/wp-content/uploads/2016/06/milk-006.jpg",
+          "image_url": "https://dtml4cs.blob.core.windows.net/images/LessonImages/cow.png",
           "answer_options": [
             "A bear",
             "The bread",
@@ -157,7 +157,7 @@
         },
         {
           "question": "Good job! Can you tell me what this is?",
-          "image_url": "http://www.naturalheightgrowth.com/wp-content/uploads/2016/06/milk-006.jpg",
+          "image_url": "https://dtml4cs.blob.core.windows.net/images/LessonImages/pig.jpg",
           "answer_options": [
             "A cat",
             "A dog",
@@ -172,7 +172,7 @@
         },
         {
           "question": "Great! Lets try another one.",
-          "image_url": "http://www.naturalheightgrowth.com/wp-content/uploads/2016/06/milk-006.jpg",
+          "image_url": "https://dtml4cs.blob.core.windows.net/images/LessonImages/a%20chicken.png",
           "answer_options": [
             "A bird",
             "The milk",
@@ -187,7 +187,7 @@
         },
         {
           "question": "Wonderful! Can you tell me what this is?",
-          "image_url": "http://www.naturalheightgrowth.com/wp-content/uploads/2016/06/milk-006.jpg",
+          "image_url": "https://dtml4cs.blob.core.windows.net/images/LessonImages/bird.jpg",
           "answer_options": [
             "A bird",
             "A boy",
@@ -205,28 +205,28 @@
         "questions": [
           {
             "question": "The ___ likes to bark!",
-            "image_url": "https://static.pexels.com/photos/39803/pexels-photo-39803.jpeg",
+            "image_url": "https://dtml4cs.blob.core.windows.net/images/LessonImages/a%20dog.jpg",
             "correct_answer": "dog",
             "correct_answer_bot_response": "Correct!",
             "wrong_answer_bot_response": "Oops, that is incorrect."
           },
           {
             "question": "This is a ____.",
-            "image_url": "https://images.contentful.com/6m9bd13t776q/6KmARX9mUwsuG4O8YsI8KY/4f68bd0d9d9d4d8a1ab5307f0fa59679/which-baby-names-stand-time-test-2160x1200.jpg",
+            "image_url": "https://dtml4cs.blob.core.windows.net/images/LessonImages/fish.jpg",
             "correct_answer": "fish",
             "correct_answer_bot_response": "Correct!",
             "wrong_answer_bot_response": "Oops, that's not right, try again"
           },
           {
             "question": "This is a ___.",
-            "image_url": "https://static.pexels.com/photos/39803/pexels-photo-39803.jpeg",
+            "image_url": "https://dtml4cs.blob.core.windows.net/images/LessonImages/cow.png",
             "correct_answer": "cow",
             "correct_answer_bot_response": "Correct!",
             "wrong_answer_bot_response": "Oops, that is incorrect."
           },
           {
             "question": "This is a ___.",
-            "image_url": "https://static.pexels.com/photos/39803/pexels-photo-39803.jpeg",
+            "image_url": "https://dtml4cs.blob.core.windows.net/images/LessonImages/pig.jpg",
             "correct_answer": "pig",
             "correct_answer_bot_response": "Correct!",
             "wrong_answer_bot_response": "Oops, that is incorrect."
@@ -240,36 +240,36 @@
         "questions": [
           {
             "question": "The ________ are very noisy.",
-            "image_url": "https://static.pexels.com/photos/39803/pexels-photo-39803.jpeg",
+            "image_url": "https://dtml4cs.blob.core.windows.net/images/LessonImages/children.jpg",
             "correct_answer": "children",
             "correct_answer_bot_response": "Correct!",
             "wrong_answer_bot_response": "Oops, that is incorrect."
           },
           {
             "question": "The ____ likes to cry.",
-            "image_url": "https://images.contentful.com/6m9bd13t776q/6KmARX9mUwsuG4O8YsI8KY/4f68bd0d9d9d4d8a1ab5307f0fa59679/which-baby-names-stand-time-test-2160x1200.jpg",
+            "image_url": "https://dtml4cs.blob.core.windows.net/images/LessonImages/paternity-633453_640.jpg",
             "correct_answer": "baby",
             "correct_answer_bot_response": "Correct!",
             "wrong_answer_bot_response": "Oops, that's not right, try again"
           },
           {
             "question": "My ______ is reading a book.",
-            "image_url": "https://static.pexels.com/photos/39803/pexels-photo-39803.jpeg",
+            "image_url": "https://dtml4cs.blob.core.windows.net/images/LessonImages/mother.jpg",
             "correct_answer": "mother",
             "correct_answer_bot_response": "Correct!",
             "wrong_answer_bot_response": "Oops, that is incorrect."
           },
           {
             "question": "A ____ is singing a song.",
-            "image_url": "https://static.pexels.com/photos/39803/pexels-photo-39803.jpeg",
+            "image_url": "https://dtml4cs.blob.core.windows.net/images/LessonImages/girl.jpg",
             "correct_answer": "girl",
             "correct_answer_bot_response": "Correct!",
             "wrong_answer_bot_response": "Oops, that is incorrect."
           },
           {
             "question": "The girl is talking to her ______.",
-            "image_url": "https://static.pexels.com/photos/39803/pexels-photo-39803.jpeg",
-            "correct_answer": "mother",
+            "image_url": "https://dtml4cs.blob.core.windows.net/images/LessonImages/father.jpg",
+            "correct_answer": "father",
             "correct_answer_bot_response": "Correct!",
             "wrong_answer_bot_response": "Oops, that is incorrect."
           }
@@ -278,7 +278,7 @@
       "topics": [
         {
           "question": "Please tell me what this image shows",
-          "image_url": "",
+          "image_url": "https://dtml4cs.blob.core.windows.net/images/LessonImages/boy.jpg",
           "answer_options": [
             "The boy",
             "The girl",
@@ -293,7 +293,7 @@
         },
         {
           "question": "Nice job! Try this one:",
-          "image_url": "https://static.pexels.com/photos/39803/pexels-photo-39803.jpeg",
+          "image_url": "https://dtml4cs.blob.core.windows.net/images/LessonImages/father.jpg",
           "answer_options": [
             "My father",
             "A girl",
@@ -308,7 +308,7 @@
         },
         {
           "question": "Good job! Lets keep going. Can you tell me what this is?",
-          "image_url": "http://www.naturalheightgrowth.com/wp-content/uploads/2016/06/milk-006.jpg",
+          "image_url": "https://dtml4cs.blob.core.windows.net/images/LessonImages/mother.jpg",
           "answer_options": [
             "A cat",
             "My father",
@@ -323,7 +323,7 @@
         },
         {
           "question": "Keep up the good work! Lets try another one.",
-          "image_url": "http://www.naturalheightgrowth.com/wp-content/uploads/2016/06/milk-006.jpg",
+          "image_url": "https://dtml4cs.blob.core.windows.net/images/LessonImages/girl.jpg",
           "answer_options": [
             "A boy",
             "A dog",
@@ -338,7 +338,7 @@
         },
         {
           "question": "Good job! Can you tell me what this is?",
-          "image_url": "http://www.naturalheightgrowth.com/wp-content/uploads/2016/06/milk-006.jpg",
+          "image_url": "https://dtml4cs.blob.core.windows.net/images/LessonImages/man.jpg",
           "answer_options": [
             "A chicken",
             "A man",
@@ -353,7 +353,7 @@
         },
         {
           "question": "Great! Lets try another one.",
-          "image_url": "http://www.naturalheightgrowth.com/wp-content/uploads/2016/06/milk-006.jpg",
+          "image_url": "https://dtml4cs.blob.core.windows.net/images/LessonImages/sister.jpg",
           "answer_options": [
             "My mother",
             "My father",
@@ -368,7 +368,7 @@
         },
         {
           "question": "Wonderful! Can you tell me what this is?",
-          "image_url": "http://www.naturalheightgrowth.com/wp-content/uploads/2016/06/milk-006.jpg",
+          "image_url": "https://dtml4cs.blob.core.windows.net/images/LessonImages/brother.jpg",
           "answer_options": [
             "A baby",
             "My sister",
@@ -383,7 +383,7 @@
         },
         {
           "question": "Wonderful! Can you tell me what this is?",
-          "image_url": "http://www.naturalheightgrowth.com/wp-content/uploads/2016/06/milk-006.jpg",
+          "image_url": "https://dtml4cs.blob.core.windows.net/images/LessonImages/children.jpg",
           "answer_options": [
             "A boy",
             "A girl",
@@ -398,7 +398,7 @@
         },
         {
           "question": "Super! Lets try another one.",
-          "image_url": "http://www.naturalheightgrowth.com/wp-content/uploads/2016/06/milk-006.jpg",
+          "image_url": "https://dtml4cs.blob.core.windows.net/images/LessonImages/paternity-633453_640.jpg",
           "answer_options": [
             "A baby",
             "A robot",
@@ -419,35 +419,35 @@
         "questions": [
           {
             "question": "I want to play with a ____",
-            "image_url": "https://static.pexels.com/photos/39803/pexels-photo-39803.jpeg",
+            "image_url": "https://dtml4cs.blob.core.windows.net/images/LessonImages/ball.png",
             "correct_answer": "ball",
             "correct_answer_bot_response": "Correct!",
             "wrong_answer_bot_response": "Oops, that is incorrect."
           },
           {
             "question": "The girl wants to read ___ ____",
-            "image_url": "https://images.contentful.com/6m9bd13t776q/6KmARX9mUwsuG4O8YsI8KY/4f68bd0d9d9d4d8a1ab5307f0fa59679/which-baby-names-stand-time-test-2160x1200.jpg",
+            "image_url": "https://dtml4cs.blob.core.windows.net/images/LessonImages/book.jpg",
             "correct_answer": "the book",
             "correct_answer_bot_response": "Correct!",
             "wrong_answer_bot_response": "Oops, that's not right, try again"
           },
           {
             "question": "At _____ I will go to sleep.",
-            "image_url": "https://static.pexels.com/photos/39803/pexels-photo-39803.jpeg",
+            "image_url": "https://dtml4cs.blob.core.windows.net/images/LessonImages/night.png",
             "correct_answer": "night",
             "correct_answer_bot_response": "Correct!",
             "wrong_answer_bot_response": "Oops, that is incorrect."
           },
           {
             "question": "I live in my ____.",
-            "image_url": "https://static.pexels.com/photos/39803/pexels-photo-39803.jpeg",
+            "image_url": "https://dtml4cs.blob.core.windows.net/images/LessonImages/house.png",
             "correct_answer": "home",
             "correct_answer_bot_response": "Correct!",
             "wrong_answer_bot_response": "Oops, that is incorrect."
           },
           {
             "question": "I sleep on my ___",
-            "image_url": "https://static.pexels.com/photos/39803/pexels-photo-39803.jpeg",
+            "image_url": "https://dtml4cs.blob.core.windows.net/images/LessonImages/bed.png",
             "correct_answer": "bed",
             "correct_answer_bot_response": "Correct!",
             "wrong_answer_bot_response": "Oops, that is incorrect."
@@ -457,7 +457,7 @@
       "topics": [
         {
           "question": "Please tell me what this image shows",
-          "image_url": "",
+          "image_url": "https://dtml4cs.blob.core.windows.net/images/LessonImages/water.jpg",
           "answer_options": [
             "The milk",
             "An apple",
@@ -472,7 +472,7 @@
         },
         {
           "question": "Nice job! Try this one:",
-          "image_url": "https://static.pexels.com/photos/39803/pexels-photo-39803.jpeg",
+          "image_url": "https://dtml4cs.blob.core.windows.net/images/LessonImages/ball.png",
           "answer_options": [
             "A ball",
             "A cow",
@@ -487,7 +487,7 @@
         },
         {
           "question": "Good job! Lets keep going. Can you tell me what this is?",
-          "image_url": "http://www.naturalheightgrowth.com/wp-content/uploads/2016/06/milk-006.jpg",
+          "image_url": "https://dtml4cs.blob.core.windows.net/images/LessonImages/book.jpg",
           "answer_options": [
             "A baby",
             "The book",
@@ -502,7 +502,7 @@
         },
         {
           "question": "Keep up the good work! Lets try another one.",
-          "image_url": "http://www.naturalheightgrowth.com/wp-content/uploads/2016/06/milk-006.jpg",
+          "image_url": "https://dtml4cs.blob.core.windows.net/images/LessonImages/house.png",
           "answer_options": [
             "A tree",
             "The boy",
@@ -517,7 +517,7 @@
         },
         {
           "question": "Good job! Can you tell me what this is?",
-          "image_url": "http://www.naturalheightgrowth.com/wp-content/uploads/2016/06/milk-006.jpg",
+          "image_url": "https://dtml4cs.blob.core.windows.net/images/LessonImages/night.png",
           "answer_options": [
             "A ball",
             "Night",
@@ -532,7 +532,7 @@
         },
         {
           "question": "Great! Lets try another one.",
-          "image_url": "http://www.naturalheightgrowth.com/wp-content/uploads/2016/06/milk-006.jpg",
+          "image_url": "https://dtml4cs.blob.core.windows.net/images/LessonImages/paper.jpg",
           "answer_options": [
             "The bread",
             "A ball",
@@ -547,7 +547,7 @@
         },
         {
           "question": "Wonderful! Can you tell me what this is?",
-          "image_url": "http://www.naturalheightgrowth.com/wp-content/uploads/2016/06/milk-006.jpg",
+          "image_url": "https://dtml4cs.blob.core.windows.net/images/LessonImages/picture.jpg",
           "answer_options": [
             "The picture",
             "The bread",
@@ -562,7 +562,7 @@
         },
         {
           "question": "Keep up the good work! Lets try another one.",
-          "image_url": "http://www.naturalheightgrowth.com/wp-content/uploads/2016/06/milk-006.jpg",
+          "image_url": "https://dtml4cs.blob.core.windows.net/images/LessonImages/tree.png",
           "answer_options": [
             "A fish",
             "A ball",
@@ -577,7 +577,7 @@
         },
         {
           "question": "Super! Lets try another one.",
-          "image_url": "http://www.naturalheightgrowth.com/wp-content/uploads/2016/06/milk-006.jpg",
+          "image_url": "https://dtml4cs.blob.core.windows.net/images/LessonImages/school.jpg",
           "answer_options": [
             "My home",
             "A bed",
@@ -592,7 +592,7 @@
         },
         {
           "question": "Nice job! Try this one.",
-          "image_url": "http://www.naturalheightgrowth.com/wp-content/uploads/2016/06/milk-006.jpg",
+          "image_url": "https://dtml4cs.blob.core.windows.net/images/LessonImages/bed.png",
           "answer_options": [
             "A tree",
             "A ball",
