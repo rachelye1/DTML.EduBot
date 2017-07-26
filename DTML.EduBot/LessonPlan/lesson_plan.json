@@ -58,7 +58,39 @@
           "next_topic_phrase": "I got it",
           "stay_on_current_topic_phrase": "Say it again"
         }
-      ]
+      ],
+      "quiz": {
+        "questions": [
+          {
+            "question": "This is an ____",
+            "image_url": "https://static.pexels.com/photos/39803/pexels-photo-39803.jpeg",
+            "correct_answer": "apple",
+            "correct_answer_bot_response": "Correct!",
+            "wrong_answer_bot_response": "Oops, that is incorrect."
+          },
+          {
+            "question": "This is ___ ____",
+            "image_url": "https://images.contentful.com/6m9bd13t776q/6KmARX9mUwsuG4O8YsI8KY/4f68bd0d9d9d4d8a1ab5307f0fa59679/which-baby-names-stand-time-test-2160x1200.jpg",
+            "correct_answer": "the milk",
+            "correct_answer_bot_response": "Correct!",
+            "wrong_answer_bot_response": "Oops, that's not right, try again"
+          },
+          {
+            "question": "This is ___ ____",
+            "image_url": "https://static.pexels.com/photos/39803/pexels-photo-39803.jpeg",
+            "correct_answer": "the bread",
+            "correct_answer_bot_response": "Correct!",
+            "wrong_answer_bot_response": "Oops, that is incorrect."
+          },
+          {
+            "question": "This is __ ___",
+            "image_url": "https://static.pexels.com/photos/39803/pexels-photo-39803.jpeg",
+            "correct_answer": "an egg",
+            "correct_answer_bot_response": "Correct!",
+            "wrong_answer_bot_response": "Oops, that is incorrect."
+          }
+        ]
+      }
     },
     {
       "lesson_title": "Fun with my fluffy farm friends",
@@ -167,333 +199,411 @@
           "pronounciation_phrase": "Good job! Here is how you say it, repeat after me.",
           "next_topic_phrase": "I got it",
           "stay_on_current_topic_phrase": "Say it again"
+        }
+      ],
+      "quiz": {
+        "questions": [
+          {
+            "question": "The ___ likes to bark!",
+            "image_url": "https://static.pexels.com/photos/39803/pexels-photo-39803.jpeg",
+            "correct_answer": "dog",
+            "correct_answer_bot_response": "Correct!",
+            "wrong_answer_bot_response": "Oops, that is incorrect."
+          },
+          {
+            "question": "This is a ____.",
+            "image_url": "https://images.contentful.com/6m9bd13t776q/6KmARX9mUwsuG4O8YsI8KY/4f68bd0d9d9d4d8a1ab5307f0fa59679/which-baby-names-stand-time-test-2160x1200.jpg",
+            "correct_answer": "fish",
+            "correct_answer_bot_response": "Correct!",
+            "wrong_answer_bot_response": "Oops, that's not right, try again"
+          },
+          {
+            "question": "This is a ___.",
+            "image_url": "https://static.pexels.com/photos/39803/pexels-photo-39803.jpeg",
+            "correct_answer": "cow",
+            "correct_answer_bot_response": "Correct!",
+            "wrong_answer_bot_response": "Oops, that is incorrect."
+          },
+          {
+            "question": "This is a ___.",
+            "image_url": "https://static.pexels.com/photos/39803/pexels-photo-39803.jpeg",
+            "correct_answer": "pig",
+            "correct_answer_bot_response": "Correct!",
+            "wrong_answer_bot_response": "Oops, that is incorrect."
+          }
+        ]
+      }
+    },
+    {
+      "lesson_title": "So many humans and people oh my!",
+      "quiz": {
+        "questions": [
+          {
+            "question": "The ________ are very noisy.",
+            "image_url": "https://static.pexels.com/photos/39803/pexels-photo-39803.jpeg",
+            "correct_answer": "children",
+            "correct_answer_bot_response": "Correct!",
+            "wrong_answer_bot_response": "Oops, that is incorrect."
+          },
+          {
+            "question": "The ____ likes to cry.",
+            "image_url": "https://images.contentful.com/6m9bd13t776q/6KmARX9mUwsuG4O8YsI8KY/4f68bd0d9d9d4d8a1ab5307f0fa59679/which-baby-names-stand-time-test-2160x1200.jpg",
+            "correct_answer": "baby",
+            "correct_answer_bot_response": "Correct!",
+            "wrong_answer_bot_response": "Oops, that's not right, try again"
+          },
+          {
+            "question": "My ______ is reading a book.",
+            "image_url": "https://static.pexels.com/photos/39803/pexels-photo-39803.jpeg",
+            "correct_answer": "mother",
+            "correct_answer_bot_response": "Correct!",
+            "wrong_answer_bot_response": "Oops, that is incorrect."
+          },
+          {
+            "question": "A ____ is singing a song.",
+            "image_url": "https://static.pexels.com/photos/39803/pexels-photo-39803.jpeg",
+            "correct_answer": "girl",
+            "correct_answer_bot_response": "Correct!",
+            "wrong_answer_bot_response": "Oops, that is incorrect."
+          },
+          {
+            "question": "The girl is talking to her ______.",
+            "image_url": "https://static.pexels.com/photos/39803/pexels-photo-39803.jpeg",
+            "correct_answer": "mother",
+            "correct_answer_bot_response": "Correct!",
+            "wrong_answer_bot_response": "Oops, that is incorrect."
+          }
+        ]
+      },
+      "topics": [
+        {
+          "question": "Please tell me what this image shows",
+          "image_url": "",
+          "answer_options": [
+            "The boy",
+            "The girl",
+            "A baby"
+          ],
+          "correct_answer": "The boy",
+          "correct_answer_bot_response": "Correct! Could you type the word?",
+          "wrong_answer_bot_response": "Sorry, incorrect, try again.",
+          "pronounciation_phrase": "Good work! Here is how you say it. Repeat after me.",
+          "next_topic_phrase": "I got it",
+          "stay_on_current_topic_phrase": "Say it again"
         },
         {
-          "lesson_title": "So many humans and people oh my!",
-          "topics": [
-            {
-              "question": "Please tell me what this image shows",
-              "image_url": "",
-              "answer_options": [
-                "The boy",
-                "The girl",
-                "A baby"
-              ],
-              "correct_answer": "The boy",
-              "correct_answer_bot_response": "Correct! Could you type the word?",
-              "wrong_answer_bot_response": "Sorry, incorrect, try again.",
-              "pronounciation_phrase": "Good work! Here is how you say it. Repeat after me.",
-              "next_topic_phrase": "I got it",
-              "stay_on_current_topic_phrase": "Say it again"
-            },
-            {
-              "question": "Nice job! Try this one:",
-              "image_url": "https://static.pexels.com/photos/39803/pexels-photo-39803.jpeg",
-              "answer_options": [
-                "My father",
-                "A girl",
-                "A dog"
-              ],
-              "correct_answer": "My father",
-              "correct_answer_bot_response": "Good! Now, can you type the word?",
-              "wrong_answer_bot_response": "oops, that's not right, try again",
-              "pronounciation_phrase": "Nice! Here is how you say it, repeat after me.",
-              "next_topic_phrase": "I got it",
-              "stay_on_current_topic_phrase": "Say it again"
-            },
-            {
-              "question": "Good job! Lets keep going. Can you tell me what this is?",
-              "image_url": "http://www.naturalheightgrowth.com/wp-content/uploads/2016/06/milk-006.jpg",
-              "answer_options": [
-                "A cat",
-                "My father",
-                "My mother"
-              ],
-              "correct_answer": "My mother",
-              "correct_answer_bot_response": "Wow good job! Type it in now.",
-              "wrong_answer_bot_response": "Sorry, incorrect, try again.",
-              "pronounciation_phrase": "Good! Now repeat after me",
-              "next_topic_phrase": "I got it",
-              "stay_on_current_topic_phrase": "Say it again"
-            },
-            {
-              "question": "Keep up the good work! Lets try another one.",
-              "image_url": "http://www.naturalheightgrowth.com/wp-content/uploads/2016/06/milk-006.jpg",
-              "answer_options": [
-                "A boy",
-                "A dog",
-                "A girl"
-              ],
-              "correct_answer": "A girl",
-              "correct_answer_bot_response": "Correct! Now, can you type the word?",
-              "wrong_answer_bot_response": "Oops, that's not right, try again",
-              "pronounciation_phrase": "Nice! Here is how you say it, repeat after me.",
-              "next_topic_phrase": "I got it",
-              "stay_on_current_topic_phrase": "Say it again"
-            },
-            {
-              "question": "Good job! Can you tell me what this is?",
-              "image_url": "http://www.naturalheightgrowth.com/wp-content/uploads/2016/06/milk-006.jpg",
-              "answer_options": [
-                "A chicken",
-                "A man",
-                "An apple"
-              ],
-              "correct_answer": "A man",
-              "correct_answer_bot_response": "Good job! Could you type the word now?",
-              "wrong_answer_bot_response": "Sorry, incorrect, try again",
-              "pronounciation_phrase": "Good! Now repeat after me",
-              "next_topic_phrase": "I got it",
-              "stay_on_current_topic_phrase": "Say it again"
-            },
-            {
-              "question": "Great! Lets try another one.",
-              "image_url": "http://www.naturalheightgrowth.com/wp-content/uploads/2016/06/milk-006.jpg",
-              "answer_options": [
-                "My mother",
-                "My father",
-                "My sister"
-              ],
-              "correct_answer": "My sister",
-              "correct_answer_bot_response": "Correct! Now can you type the word?",
-              "wrong_answer_bot_response": "Sorry, incorrect, please try again",
-              "pronounciation_phrase": "Awesome! Please repeat after me.",
-              "next_topic_phrase": "I got it",
-              "stay_on_current_topic_phrase": "Say it again"
-            },
-            {
-              "question": "Wonderful! Can you tell me what this is?",
-              "image_url": "http://www.naturalheightgrowth.com/wp-content/uploads/2016/06/milk-006.jpg",
-              "answer_options": [
-                "A baby",
-                "My sister",
-                "My brother"
-              ],
-              "correct_answer": "My brother",
-              "correct_answer_bot_response": "Good! Now can you type the word?",
-              "wrong_answer_bot_response": "Hmm...try again please",
-              "pronounciation_phrase": "Great! Now lets repeat after me.",
-              "next_topic_phrase": "I got it",
-              "stay_on_current_topic_phrase": "Say it again"
-            },
-            {
-              "question": "Wonderful! Can you tell me what this is?",
-              "image_url": "http://www.naturalheightgrowth.com/wp-content/uploads/2016/06/milk-006.jpg",
-              "answer_options": [
-                "A boy",
-                "A girl",
-                "The children"
-              ],
-              "correct_answer": "The children",
-              "correct_answer_bot_response": "Correct! Could you type the word?",
-              "wrong_answer_bot_response": "Oops, that's not right, try again",
-              "pronounciation_phrase": "Nice! Here is how you say it, repeat after me",
-              "next_topic_phrase": "I got it",
-              "stay_on_current_topic_phrase": "Say it again"
-            },
-            {
-              "question": "Super! Lets try another one.",
-              "image_url": "http://www.naturalheightgrowth.com/wp-content/uploads/2016/06/milk-006.jpg",
-              "answer_options": [
-                "A baby",
-                "A robot",
-                "My father"
-              ],
-              "correct_answer": "A baby",
-              "correct_answer_bot_response": "Correct! Now can you type the word?",
-              "wrong_answer_bot_response": "Sorry, incorrect, try again",
-              "pronounciation_phrase": "Good work! Here is how you say it, repeat after me",
-              "next_topic_phrase": "I got it",
-              "stay_on_current_topic_phrase": "Say it again"
-            },
-            {
-              "lesson_title": "Extra fun and extra cool nouns!",
-              "topics": [
-                {
-                  "question": "Please tell me what this image shows",
-                  "image_url": "",
-                  "answer_options": [
-                    "The milk",
-                    "An apple",
-                    "The water"
-                  ],
-                  "correct_answer": "The water",
-                  "correct_answer_bot_response": "Correct! Could you type the word?",
-                  "wrong_answer_bot_response": "Sorry, incorrect, try again.",
-                  "pronounciation_phrase": "Good work! Here is how you say it. Repeat after me.",
-                  "next_topic_phrase": "I got it",
-                  "stay_on_current_topic_phrase": "Say it again"
-                },
-                {
-                  "question": "Nice job! Try this one:",
-                  "image_url": "https://static.pexels.com/photos/39803/pexels-photo-39803.jpeg",
-                  "answer_options": [
-                    "A ball",
-                    "A cow",
-                    "A chicken"
-                  ],
-                  "correct_answer": "A ball",
-                  "correct_answer_bot_response": "Good job! Can you type the word now?",
-                  "wrong_answer_bot_response": "Oops, that's not correct, try again please.",
-                  "pronounciation_phrase": "Wonderful! Here is how you say it, follow along with me.",
-                  "next_topic_phrase": "I got it",
-                  "stay_on_current_topic_phrase": "Say it again"
-                },
-                {
-                  "question": "Good job! Lets keep going. Can you tell me what this is?",
-                  "image_url": "http://www.naturalheightgrowth.com/wp-content/uploads/2016/06/milk-006.jpg",
-                  "answer_options": [
-                    "A baby",
-                    "The book",
-                    "The children"
-                  ],
-                  "correct_answer": "The book",
-                  "correct_answer_bot_response": "Wow good job! Type it in now.",
-                  "wrong_answer_bot_response": "Sorry, incorrect, try again.",
-                  "pronounciation_phrase": "Good! Now repeat after me",
-                  "next_topic_phrase": "I got it",
-                  "stay_on_current_topic_phrase": "Say it again"
-                },
-                {
-                  "question": "Keep up the good work! Lets try another one.",
-                  "image_url": "http://www.naturalheightgrowth.com/wp-content/uploads/2016/06/milk-006.jpg",
-                  "answer_options": [
-                    "A tree",
-                    "The boy",
-                    "My home"
-                  ],
-                  "correct_answer": "My home",
-                  "correct_answer_bot_response": "Correct! Now, can you type the word?",
-                  "wrong_answer_bot_response": "Hmm...Try again please.",
-                  "pronounciation_phrase": "Awesome! Please repeat after me!",
-                  "next_topic_phrase": "I got it",
-                  "stay_on_current_topic_phrase": "Say it again"
-                },
-                {
-                  "question": "Good job! Can you tell me what this is?",
-                  "image_url": "http://www.naturalheightgrowth.com/wp-content/uploads/2016/06/milk-006.jpg",
-                  "answer_options": [
-                    "A ball",
-                    "Night",
-                    "A bed"
-                  ],
-                  "correct_answer": "Night",
-                  "correct_answer_bot_response": "Good! Now, can you type the word?",
-                  "wrong_answer_bot_response": "Oops, that's not right, try again.",
-                  "pronounciation_phrase": "Great! Now lets repeat after me.",
-                  "next_topic_phrase": "I got it",
-                  "stay_on_current_topic_phrase": "Say it again"
-                },
-                {
-                  "question": "Great! Lets try another one.",
-                  "image_url": "http://www.naturalheightgrowth.com/wp-content/uploads/2016/06/milk-006.jpg",
-                  "answer_options": [
-                    "The bread",
-                    "A ball",
-                    "The paper"
-                  ],
-                  "correct_answer": "The paper",
-                  "correct_answer_bot_response": "Good job! Can you type the word now?",
-                  "wrong_answer_bot_response": "Hmm...try again please.",
-                  "pronounciation_phrase": "Wonderful! Here is how you say it, follow along with me!",
-                  "next_topic_phrase": "I got it",
-                  "stay_on_current_topic_phrase": "Say it again"
-                },
-                {
-                  "question": "Wonderful! Can you tell me what this is?",
-                  "image_url": "http://www.naturalheightgrowth.com/wp-content/uploads/2016/06/milk-006.jpg",
-                  "answer_options": [
-                    "The picture",
-                    "The bread",
-                    "A bird"
-                  ],
-                  "correct_answer": "The picture",
-                  "correct_answer_bot_response": "Nice work! Try typing the word yourself now.",
-                  "wrong_answer_bot_response": "Sorry, incorrect, try again",
-                  "pronounciation_phrase": "Nice! Here is how you say it, repeat after me.",
-                  "next_topic_phrase": "I got it",
-                  "stay_on_current_topic_phrase": "Say it again"
-                },
-                {
-                  "question": "Keep up the good work! Lets try another one.",
-                  "image_url": "http://www.naturalheightgrowth.com/wp-content/uploads/2016/06/milk-006.jpg",
-                  "answer_options": [
-                    "A fish",
-                    "A ball",
-                    "A tree"
-                  ],
-                  "correct_answer": "A tree",
-                  "correct_answer_bot_response": "Super! Try typing the word now.",
-                  "wrong_answer_bot_response": "Hmm...try again please.",
-                  "pronounciation_phrase": "Good! Now follow along with me please.",
-                  "next_topic_phrase": "I got it",
-                  "stay_on_current_topic_phrase": "Say it again"
-                },
-                {
-                  "question": "Super! Lets try another one.",
-                  "image_url": "http://www.naturalheightgrowth.com/wp-content/uploads/2016/06/milk-006.jpg",
-                  "answer_options": [
-                    "My home",
-                    "A bed",
-                    "The school"
-                  ],
-                  "correct_answer": "The school",
-                  "correct_answer_bot_response": "Correct! Now can you type the word?",
-                  "wrong_answer_bot_response": "Sorry, incorrect, try again",
-                  "pronounciation_phrase": "Good work! Here is how you say it, repeat after me",
-                  "next_topic_phrase": "I got it",
-                  "stay_on_current_topic_phrase": "Say it again"
-                },
-                {
-                  "question": "Nice job! Try this one.",
-                  "image_url": "http://www.naturalheightgrowth.com/wp-content/uploads/2016/06/milk-006.jpg",
-                  "answer_options": [
-                    "A tree",
-                    "A ball",
-                    "A bird"
-                  ],
-                  "correct_answer": "A bed",
-                  "correct_answer_bot_response": "Great! Could you type the word by yourself please?",
-                  "wrong_answer_bot_response": "Sorry, incorrect, try again",
-                  "pronounciation_phrase": "Good! Now please repeat after me.",
-                  "next_topic_phrase": "I got it",
-                  "stay_on_current_topic_phrase": "Say it again"
-                }
-              ],
-              "quiz": {
-                "questions": [
-                  {
-                    "question": "I want to eat an _________",
-                    "image_url": "https://static.pexels.com/photos/39803/pexels-photo-39803.jpeg",
-                    "correct_answer": "apple.",
-                    "correct_answer_bot_response": "Correct!",
-                    "wrong_answer_bot_response": "Oops, that is incorrect."
-                  },
-                  {
-                    "question": "I love my_______",
-                    "image_url": "https://images.contentful.com/6m9bd13t776q/6KmARX9mUwsuG4O8YsI8KY/4f68bd0d9d9d4d8a1ab5307f0fa59679/which-baby-names-stand-time-test-2160x1200.jpg",
-                    "correct_answer": "mother.",
-                    "correct_answer_bot_response": "Correct!",
-                    "wrong_answer_bot_response": "Oops, that's not right, try again"
-                  },
-                  {
-                    "question": "I like to play with my ________",
-                    "image_url": "https://images.contentful.com/6m9bd13t776q/6KmARX9mUwsuG4O8YsI8KY/4f68bd0d9d9d4d8a1ab5307f0fa59679/which-baby-names-stand-time-test-2160x1200.jpg",
-                    "correct_answer": "ball.",
-                    "correct_answer_bot_response": "Correct!",
-                    "wrong_answer_bot_response": "Sorry, that's not right."
-                  },
-                  {
-                    "question": "The _______ are very noisy!",
-                    "image_url": "https://images.contentful.com/6m9bd13t776q/6KmARX9mUwsuG4O8YsI8KY/4f68bd0d9d9d4d8a1ab5307f0fa59679/which-baby-names-stand-time-test-2160x1200.jpg",
-                    "correct_answer": "mother.",
-                    "correct_answer_bot_response": "Right!",
-                    "wrong_answer_bot_response": "Oops, that's not right, try again"
-                  }
-                ]
-              }
-            }
-          ]
+          "question": "Nice job! Try this one:",
+          "image_url": "https://static.pexels.com/photos/39803/pexels-photo-39803.jpeg",
+          "answer_options": [
+            "My father",
+            "A girl",
+            "A dog"
+          ],
+          "correct_answer": "My father",
+          "correct_answer_bot_response": "Good! Now, can you type the word?",
+          "wrong_answer_bot_response": "oops, that's not right, try again",
+          "pronounciation_phrase": "Nice! Here is how you say it, repeat after me.",
+          "next_topic_phrase": "I got it",
+          "stay_on_current_topic_phrase": "Say it again"
+        },
+        {
+          "question": "Good job! Lets keep going. Can you tell me what this is?",
+          "image_url": "http://www.naturalheightgrowth.com/wp-content/uploads/2016/06/milk-006.jpg",
+          "answer_options": [
+            "A cat",
+            "My father",
+            "My mother"
+          ],
+          "correct_answer": "My mother",
+          "correct_answer_bot_response": "Wow good job! Type it in now.",
+          "wrong_answer_bot_response": "Sorry, incorrect, try again.",
+          "pronounciation_phrase": "Good! Now repeat after me",
+          "next_topic_phrase": "I got it",
+          "stay_on_current_topic_phrase": "Say it again"
+        },
+        {
+          "question": "Keep up the good work! Lets try another one.",
+          "image_url": "http://www.naturalheightgrowth.com/wp-content/uploads/2016/06/milk-006.jpg",
+          "answer_options": [
+            "A boy",
+            "A dog",
+            "A girl"
+          ],
+          "correct_answer": "A girl",
+          "correct_answer_bot_response": "Correct! Now, can you type the word?",
+          "wrong_answer_bot_response": "Oops, that's not right, try again",
+          "pronounciation_phrase": "Nice! Here is how you say it, repeat after me.",
+          "next_topic_phrase": "I got it",
+          "stay_on_current_topic_phrase": "Say it again"
+        },
+        {
+          "question": "Good job! Can you tell me what this is?",
+          "image_url": "http://www.naturalheightgrowth.com/wp-content/uploads/2016/06/milk-006.jpg",
+          "answer_options": [
+            "A chicken",
+            "A man",
+            "An apple"
+          ],
+          "correct_answer": "A man",
+          "correct_answer_bot_response": "Good job! Could you type the word now?",
+          "wrong_answer_bot_response": "Sorry, incorrect, try again",
+          "pronounciation_phrase": "Good! Now repeat after me",
+          "next_topic_phrase": "I got it",
+          "stay_on_current_topic_phrase": "Say it again"
+        },
+        {
+          "question": "Great! Lets try another one.",
+          "image_url": "http://www.naturalheightgrowth.com/wp-content/uploads/2016/06/milk-006.jpg",
+          "answer_options": [
+            "My mother",
+            "My father",
+            "My sister"
+          ],
+          "correct_answer": "My sister",
+          "correct_answer_bot_response": "Correct! Now can you type the word?",
+          "wrong_answer_bot_response": "Sorry, incorrect, please try again",
+          "pronounciation_phrase": "Awesome! Please repeat after me.",
+          "next_topic_phrase": "I got it",
+          "stay_on_current_topic_phrase": "Say it again"
+        },
+        {
+          "question": "Wonderful! Can you tell me what this is?",
+          "image_url": "http://www.naturalheightgrowth.com/wp-content/uploads/2016/06/milk-006.jpg",
+          "answer_options": [
+            "A baby",
+            "My sister",
+            "My brother"
+          ],
+          "correct_answer": "My brother",
+          "correct_answer_bot_response": "Good! Now can you type the word?",
+          "wrong_answer_bot_response": "Hmm...try again please",
+          "pronounciation_phrase": "Great! Now lets repeat after me.",
+          "next_topic_phrase": "I got it",
+          "stay_on_current_topic_phrase": "Say it again"
+        },
+        {
+          "question": "Wonderful! Can you tell me what this is?",
+          "image_url": "http://www.naturalheightgrowth.com/wp-content/uploads/2016/06/milk-006.jpg",
+          "answer_options": [
+            "A boy",
+            "A girl",
+            "The children"
+          ],
+          "correct_answer": "The children",
+          "correct_answer_bot_response": "Correct! Could you type the word?",
+          "wrong_answer_bot_response": "Oops, that's not right, try again",
+          "pronounciation_phrase": "Nice! Here is how you say it, repeat after me",
+          "next_topic_phrase": "I got it",
+          "stay_on_current_topic_phrase": "Say it again"
+        },
+        {
+          "question": "Super! Lets try another one.",
+          "image_url": "http://www.naturalheightgrowth.com/wp-content/uploads/2016/06/milk-006.jpg",
+          "answer_options": [
+            "A baby",
+            "A robot",
+            "My father"
+          ],
+          "correct_answer": "A baby",
+          "correct_answer_bot_response": "Correct! Now can you type the word?",
+          "wrong_answer_bot_response": "Sorry, incorrect, try again",
+          "pronounciation_phrase": "Good work! Here is how you say it, repeat after me",
+          "next_topic_phrase": "I got it",
+          "stay_on_current_topic_phrase": "Say it again"
+        }
+      ]
+    },
+    {
+      "lesson_title": "Extra fun and extra cool nouns!",
+      "quiz": {
+        "questions": [
+          {
+            "question": "I want to play with a ____",
+            "image_url": "https://static.pexels.com/photos/39803/pexels-photo-39803.jpeg",
+            "correct_answer": "ball",
+            "correct_answer_bot_response": "Correct!",
+            "wrong_answer_bot_response": "Oops, that is incorrect."
+          },
+          {
+            "question": "The girl wants to read ___ ____",
+            "image_url": "https://images.contentful.com/6m9bd13t776q/6KmARX9mUwsuG4O8YsI8KY/4f68bd0d9d9d4d8a1ab5307f0fa59679/which-baby-names-stand-time-test-2160x1200.jpg",
+            "correct_answer": "the book",
+            "correct_answer_bot_response": "Correct!",
+            "wrong_answer_bot_response": "Oops, that's not right, try again"
+          },
+          {
+            "question": "At _____ I will go to sleep.",
+            "image_url": "https://static.pexels.com/photos/39803/pexels-photo-39803.jpeg",
+            "correct_answer": "night",
+            "correct_answer_bot_response": "Correct!",
+            "wrong_answer_bot_response": "Oops, that is incorrect."
+          },
+          {
+            "question": "I live in my ____.",
+            "image_url": "https://static.pexels.com/photos/39803/pexels-photo-39803.jpeg",
+            "correct_answer": "home",
+            "correct_answer_bot_response": "Correct!",
+            "wrong_answer_bot_response": "Oops, that is incorrect."
+          },
+          {
+            "question": "I sleep on my ___",
+            "image_url": "https://static.pexels.com/photos/39803/pexels-photo-39803.jpeg",
+            "correct_answer": "bed",
+            "correct_answer_bot_response": "Correct!",
+            "wrong_answer_bot_response": "Oops, that is incorrect."
+          }
+        ]
+      },
+      "topics": [
+        {
+          "question": "Please tell me what this image shows",
+          "image_url": "",
+          "answer_options": [
+            "The milk",
+            "An apple",
+            "The water"
+          ],
+          "correct_answer": "The water",
+          "correct_answer_bot_response": "Correct! Could you type the word?",
+          "wrong_answer_bot_response": "Sorry, incorrect, try again.",
+          "pronounciation_phrase": "Good work! Here is how you say it. Repeat after me.",
+          "next_topic_phrase": "I got it",
+          "stay_on_current_topic_phrase": "Say it again"
+        },
+        {
+          "question": "Nice job! Try this one:",
+          "image_url": "https://static.pexels.com/photos/39803/pexels-photo-39803.jpeg",
+          "answer_options": [
+            "A ball",
+            "A cow",
+            "A chicken"
+          ],
+          "correct_answer": "A ball",
+          "correct_answer_bot_response": "Good job! Can you type the word now?",
+          "wrong_answer_bot_response": "Oops, that's not correct, try again please.",
+          "pronounciation_phrase": "Wonderful! Here is how you say it, follow along with me.",
+          "next_topic_phrase": "I got it",
+          "stay_on_current_topic_phrase": "Say it again"
+        },
+        {
+          "question": "Good job! Lets keep going. Can you tell me what this is?",
+          "image_url": "http://www.naturalheightgrowth.com/wp-content/uploads/2016/06/milk-006.jpg",
+          "answer_options": [
+            "A baby",
+            "The book",
+            "The children"
+          ],
+          "correct_answer": "The book",
+          "correct_answer_bot_response": "Wow good job! Type it in now.",
+          "wrong_answer_bot_response": "Sorry, incorrect, try again.",
+          "pronounciation_phrase": "Good! Now repeat after me",
+          "next_topic_phrase": "I got it",
+          "stay_on_current_topic_phrase": "Say it again"
+        },
+        {
+          "question": "Keep up the good work! Lets try another one.",
+          "image_url": "http://www.naturalheightgrowth.com/wp-content/uploads/2016/06/milk-006.jpg",
+          "answer_options": [
+            "A tree",
+            "The boy",
+            "My home"
+          ],
+          "correct_answer": "My home",
+          "correct_answer_bot_response": "Correct! Now, can you type the word?",
+          "wrong_answer_bot_response": "Hmm...Try again please.",
+          "pronounciation_phrase": "Awesome! Please repeat after me!",
+          "next_topic_phrase": "I got it",
+          "stay_on_current_topic_phrase": "Say it again"
+        },
+        {
+          "question": "Good job! Can you tell me what this is?",
+          "image_url": "http://www.naturalheightgrowth.com/wp-content/uploads/2016/06/milk-006.jpg",
+          "answer_options": [
+            "A ball",
+            "Night",
+            "A bed"
+          ],
+          "correct_answer": "Night",
+          "correct_answer_bot_response": "Good! Now, can you type the word?",
+          "wrong_answer_bot_response": "Oops, that's not right, try again.",
+          "pronounciation_phrase": "Great! Now lets repeat after me.",
+          "next_topic_phrase": "I got it",
+          "stay_on_current_topic_phrase": "Say it again"
+        },
+        {
+          "question": "Great! Lets try another one.",
+          "image_url": "http://www.naturalheightgrowth.com/wp-content/uploads/2016/06/milk-006.jpg",
+          "answer_options": [
+            "The bread",
+            "A ball",
+            "The paper"
+          ],
+          "correct_answer": "The paper",
+          "correct_answer_bot_response": "Good job! Can you type the word now?",
+          "wrong_answer_bot_response": "Hmm...try again please.",
+          "pronounciation_phrase": "Wonderful! Here is how you say it, follow along with me!",
+          "next_topic_phrase": "I got it",
+          "stay_on_current_topic_phrase": "Say it again"
+        },
+        {
+          "question": "Wonderful! Can you tell me what this is?",
+          "image_url": "http://www.naturalheightgrowth.com/wp-content/uploads/2016/06/milk-006.jpg",
+          "answer_options": [
+            "The picture",
+            "The bread",
+            "A bird"
+          ],
+          "correct_answer": "The picture",
+          "correct_answer_bot_response": "Nice work! Try typing the word yourself now.",
+          "wrong_answer_bot_response": "Sorry, incorrect, try again",
+          "pronounciation_phrase": "Nice! Here is how you say it, repeat after me.",
+          "next_topic_phrase": "I got it",
+          "stay_on_current_topic_phrase": "Say it again"
+        },
+        {
+          "question": "Keep up the good work! Lets try another one.",
+          "image_url": "http://www.naturalheightgrowth.com/wp-content/uploads/2016/06/milk-006.jpg",
+          "answer_options": [
+            "A fish",
+            "A ball",
+            "A tree"
+          ],
+          "correct_answer": "A tree",
+          "correct_answer_bot_response": "Super! Try typing the word now.",
+          "wrong_answer_bot_response": "Hmm...try again please.",
+          "pronounciation_phrase": "Good! Now follow along with me please.",
+          "next_topic_phrase": "I got it",
+          "stay_on_current_topic_phrase": "Say it again"
+        },
+        {
+          "question": "Super! Lets try another one.",
+          "image_url": "http://www.naturalheightgrowth.com/wp-content/uploads/2016/06/milk-006.jpg",
+          "answer_options": [
+            "My home",
+            "A bed",
+            "The school"
+          ],
+          "correct_answer": "The school",
+          "correct_answer_bot_response": "Correct! Now can you type the word?",
+          "wrong_answer_bot_response": "Sorry, incorrect, try again",
+          "pronounciation_phrase": "Good work! Here is how you say it, repeat after me",
+          "next_topic_phrase": "I got it",
+          "stay_on_current_topic_phrase": "Say it again"
+        },
+        {
+          "question": "Nice job! Try this one.",
+          "image_url": "http://www.naturalheightgrowth.com/wp-content/uploads/2016/06/milk-006.jpg",
+          "answer_options": [
+            "A tree",
+            "A ball",
+            "A bird"
+          ],
+          "correct_answer": "A bed",
+          "correct_answer_bot_response": "Great! Could you type the word by yourself please?",
+          "wrong_answer_bot_response": "Sorry, incorrect, try again",
+          "pronounciation_phrase": "Good! Now please repeat after me.",
+          "next_topic_phrase": "I got it",
+          "stay_on_current_topic_phrase": "Say it again"
         }
       ]
     }
